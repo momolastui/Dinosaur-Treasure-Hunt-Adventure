@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Menu/Help.unity
+    guid: d3e7d6c5801ff8b41b691c8589d1ce71
+  - enabled: 1
+    path: Assets/Menu/Credit.unity
+    guid: 5fe89f16ae08d764b8d53795f630dddc
+  - enabled: 1
+    path: Assets/Menu/Sences.unity
+    guid: e758a75a6e628be4e9f9248459bf545f
+  - enabled: 1
+    path: Assets/ZhenhuaGuo/ZhenhuaGuo.unity
+    guid: 0b14f767c9d823740b777d20536a88af
+  - enabled: 1
+    path: Assets/ShanLu/ShanLu.unity
+    guid: 0437ae2108fb13e498b88412e58cefd2
+  - enabled: 1
+    path: Assets/QingxuanMeng/QingxuanMeng.unity
+    guid: 62b2caca4d6213941b10d1dec415b9f4
+  - enabled: 1
+    path: Assets/MoxuanLi/MoxuanLi.unity
+    guid: fd14fb063abc05a4d952dba7b8e19569
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
